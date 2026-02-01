@@ -817,9 +817,9 @@ export function logAnalysis(billId: string, cost: number, duration: number) {
 ## 14. 참고 자료
 
 ### API 문서
-- [국회 의안정보시스템 (의안목록)](https://www.data.go.kr/data/15126134/openapi.do)
-- [국회 의안정보시스템 (발의의원)](https://www.data.go.kr/data/15125946/openapi.do)
-- [국회 의안정보시스템 (의안상세)](https://www.data.go.kr/data/15125948/openapi.do)
+- [국회 의안정보시스템 (국회 국회사무처_의안정보 통합 API)](https://www.data.go.kr/data/15126134/openapi.do)
+- [국회 의안정보시스템 (국회 국회사무처_국회의원 발의법률안)](https://www.data.go.kr/data/15125946/openapi.do)
+- [국회 의안정보시스템 (국회 국회사무처_국회의원 본회의 표결정보)](https://www.data.go.kr/data/15125948/openapi.do)
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 - [Supabase Documentation](https://supabase.com/docs)
 
